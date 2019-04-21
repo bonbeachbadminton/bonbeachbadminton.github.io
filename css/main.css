@@ -1,5 +1,5 @@
 body { background-image: url(/assets/bsc_small_faded.png); }
-body { margin: 60px auto; width: 800px; }
+body { width: 800px; margin: 60px auto; }
 
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
