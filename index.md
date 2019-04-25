@@ -10,10 +10,10 @@ markdown: kramdown
   <tr>
     <td>Where ?</td>Bonbeach Sports Complex<td></td><td></td><td></td>
   </tr><tr>
-    <td>Where ?</td>Cannes Avenue<td></td><td></td><td></td>
+    <td> </td>Cannes Avenue<td></td><td></td><td></td>
   </tr>
   </tr><tr>
-    <td>Where ?</td>BONBEACH<td>3196</td><td></td><td></td>
+    <td> </td>BONBEACH<td>3196</td><td></td><td></td>
   </tr>
   <tr>
     <td>When ?</td><td></td><td></td><td></td>
