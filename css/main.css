@@ -1,7 +1,7 @@
 body { background-image: url(/assets/bsc_small_faded.png); background-repeat: no-repeat; }
 body { width: 800px; margin-left: 2em; }
 div.container { max-width: 800px; }
-a { text-decoration: none; color: #999; }
+a { text-decoration: none; color: blue; }
 a:hover { text-decoration: underline; }
 
 p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
