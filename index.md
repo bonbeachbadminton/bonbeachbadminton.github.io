@@ -7,14 +7,7 @@ markdown: kramdown
 ### Badminton Players Needed !
 ### Social Games
 
-<table>
-  <thead>
-    <tr>
-      <th> </th>
-      <th> </th>
-      <th> </th>
-    </tr>
-  </thead>
+<table border="0" width="100%">
   <tbody>
     <tr>
       <td>Where ?</td>
@@ -43,12 +36,7 @@ markdown: kramdown
     </tr>
     <tr>
       <td>When ?</td>
-      <td>Thursday 10 am to 12 noon</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td>except School Holidays</td>
+      <td colspan="2">Thursday 10 am to 12 noon, except School Holidays</td>
       <td> </td>
     </tr>
     <tr>
