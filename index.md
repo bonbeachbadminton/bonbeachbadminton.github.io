@@ -9,10 +9,12 @@ markdown: kramdown
 <table>
   <tr>
     <td>Where ?</td>Bonbeach Sports Complex<td></td><td></td><td></td>
-  </tr><tr>
+  </tr>
+  <tr>
     <td> </td>Cannes Avenue<td></td><td></td><td></td>
   </tr>
-  </tr><tr>
+  </tr>
+  <tr>
     <td> </td>BONBEACH<td>3196</td><td></td><td></td>
   </tr>
   <tr>
