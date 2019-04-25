@@ -6,9 +6,20 @@ markdown: kramdown
 # Bonbeach Badminton
 ### Badminton Players Needed !
 ### Social Games
-<ul class="find">
-<li>Where? <ul class="data"><li>where ever</li></ul></li>
-<li>When?</li>
-<li>Cost</li>
-</ul>
+<table>
+  <tr>
+    <td>Where ?</td>Bonbeach Sports Complex<td></td><td></td><td></td>
+  </tr><tr>
+    <td>Where ?</td>Cannes Avenue<td></td><td></td><td></td>
+  </tr>
+  </tr><tr>
+    <td>Where ?</td>BONBEACH<td>3196</td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>When ?</td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Cost ?</td><td></td><td></td><td></td>
+  </tr>
+</table>
 
