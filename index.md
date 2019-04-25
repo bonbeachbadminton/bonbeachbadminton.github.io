@@ -37,5 +37,13 @@ markdown: kramdown
       <td> </td>
       <td>and Xmas break.</td>
     </tr>
+    <tr>
+      <td>Cost :</td>
+      <td colspan="2">$4-00 a session.</td>
+    </tr>
   </tbody>
 </table>
+
+No experience needed – Coaching available 
+    All  equipment for playing supplied 
+             all ages welcome.
