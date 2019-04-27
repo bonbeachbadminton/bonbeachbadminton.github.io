@@ -3,7 +3,8 @@ layout: default
 title: Bonbeach Badminton
 markdown: kramdown
 ---
-![A photo of the front of the stadium](/assets/small.jpg)
+
+![A photo of the front of the stadium](/assets/smaller.jpg)
 ### Badminton Players Needed !
 ### Social Games
 
