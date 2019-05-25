@@ -43,7 +43,11 @@ markdown: kramdown
       <td colspan="2">$4-00 a session.</td>
     </tr>    <tr>
       <td>Contact :</td>
-      <td colspan="2">Jan - 042 488 5118</td>
+      <td colspan="2">042 488 5118</td>
+    </tr>
+    </tr>    <tr>
+      <td>Enail :</td>
+      <td colspan="2">To be advised</td>
     </tr>
   </tbody>
 </table>
