@@ -52,6 +52,6 @@ markdown: kramdown
   </tbody>
 </table>
 
-No experience needed.<br />Coaching available.
+No experience needed. Coaching available.
              All ages welcome.
             All equipment for playing supplied.
