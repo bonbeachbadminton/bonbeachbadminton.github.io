@@ -45,7 +45,7 @@ markdown: kramdown
       <td>Contact :</td>
       <td colspan="2">042 488 5118</td>
     </tr>
-    </tr>    <tr>
+    <tr>
       <td>Email :</td>
       <td colspan="2">To be advised</td>
     </tr>
@@ -53,5 +53,5 @@ markdown: kramdown
 </table>
 
 No experience needed. Coaching available.
-             All ages welcome.
-            All equipment for playing supplied.
+All ages welcome.
+All equipment for playing supplied.
