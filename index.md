@@ -46,7 +46,7 @@ markdown: kramdown
       <td colspan="2">042 488 5118</td>
     </tr>
     </tr>    <tr>
-      <td>Enail :</td>
+      <td>Email :</td>
       <td colspan="2">To be advised</td>
     </tr>
   </tbody>
