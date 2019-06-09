@@ -40,7 +40,7 @@ markdown: kramdown
     </tr>
     <tr>
       <td>Cost :</td>
-      <td colspan="2">$4-00 a session.</td>
+      <td colspan="2">$4.00 a session.</td>
     </tr>    <tr>
       <td>Contact :</td>
       <td colspan="2">042 488 5118</td>
