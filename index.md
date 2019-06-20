@@ -4,7 +4,7 @@ title: Bonbeach Badminton
 markdown: kramdown
 ---
 # Bonbeach Badminton
-![A photo of the front of the stadium](/assets/nocars.jpg)
+![A photo of the front of the stadium](/assets/nocarsb1.jpg)
 ### Badminton Players Needed !
 ### Social Games
 
